@@ -1,0 +1,13 @@
+{
+  "name": "mailspring-iceberg",
+  "title": "Iceberg",
+  "displayName": "Iceberg",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "A dark blue color scheme for Mailspring. Based on cocopon's iceberg.vim.",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
